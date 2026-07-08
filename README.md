@@ -11,5 +11,4 @@ This repository contains my Data Science projects using Python.
 ### 2. Netflix Dataset EDA
 - Exploratory Data Analysis on the Netflix dataset.
 
-### 3. Iris Dataset EDA
-- Data cleaning and visualization.
+
