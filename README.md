@@ -13,4 +13,4 @@ This repository contains my Data Science projects using Python.
 
 ### 3. Zomato Dataset EDA
 - Exploratory Data Analysis on the Zomato restaurant dataset.
-- Analyzed ratings, online orders, table booking, cuisines, locations, and cost for two people.
+- Analyzed ratings, online orders, table booking, cuisines, locations.
