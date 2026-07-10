@@ -14,3 +14,8 @@ This repository contains my Data Science projects using Python.
 ### 3. Zomato Dataset EDA
 - Exploratory Data Analysis on the Zomato restaurant dataset.
 - Analyzed ratings, online orders, table booking, cuisines, locations.
+
+### 4. Breast Cancer Dataset EDA
+- Performed exploratory data analysis on the Breast Cancer dataset.
+- Analyzed diagnosis distribution, feature correlations, and data patterns.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
