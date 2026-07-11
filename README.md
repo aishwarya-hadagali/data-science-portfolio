@@ -19,3 +19,10 @@ This repository contains my Data Science projects using Python.
 - Performed exploratory data analysis on the Breast Cancer dataset.
 - Analyzed diagnosis distribution, feature correlations, and data patterns.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 5. Diamonds Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Diamonds dataset.
+- Cleaned the dataset and analyzed price, carat, cut, color, and clarity.
+- Visualized feature distributions, correlations, and relationships between variables.
+- Identified key factors affecting diamond prices.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
