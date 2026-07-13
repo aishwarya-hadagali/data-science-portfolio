@@ -26,3 +26,14 @@ This repository contains my Data Science projects using Python.
 - Visualized feature distributions, correlations, and relationships between variables.
 - Identified key factors affecting diamond prices.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 6. YouTube Dataset API EDA
+- Performed Exploratory Data Analysis using YouTube data retrieved through an API.
+- Analyzed video statistics, channel information, and engagement metrics.
+- Tools: Python, Pandas, NumPy, Requests, Matplotlib, Seaborn.
+
+
+### 7. Paisabazar Dataset EDA
+- Performed exploratory data analysis on the Paisabazar dataset.
+- Cleaned the data, handled missing values, and analyzed key financial patterns.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
