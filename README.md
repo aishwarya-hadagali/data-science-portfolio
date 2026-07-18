@@ -37,3 +37,9 @@ This repository contains my Data Science projects using Python.
 - Performed exploratory data analysis on the Paisabazar dataset.
 - Cleaned the data, handled missing values, and analyzed key financial patterns.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 8. Iris Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Iris flower dataset.
+- Analyzed sepal length, sepal width, petal length, petal width, and species distribution.
+- Visualized feature relationships and class-wise patterns.
+- Tools: Python, Pandas, Seaborn, Matplotlib.
