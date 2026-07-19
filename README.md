@@ -43,3 +43,9 @@ This repository contains my Data Science projects using Python.
 - Analyzed sepal length, sepal width, petal length, petal width, and species distribution.
 - Visualized feature relationships and class-wise patterns.
 - Tools: Python, Pandas, Seaborn, Matplotlib.
+
+### 9. Indian Startup Funding EDA
+- Performed Exploratory Data Analysis (EDA) on the Indian Startup Funding dataset.
+- Analyzed funding trends, cities, industries, investors, and investment types.
+- Identified startups receiving the highest funding and yearly funding patterns.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
