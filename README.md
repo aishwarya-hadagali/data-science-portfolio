@@ -49,3 +49,9 @@ This repository contains my Data Science projects using Python.
 - Analyzed funding trends, cities, industries, investors, and investment types.
 - Identified startups receiving the highest funding and yearly funding patterns.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 10. MPG Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the MPG dataset.
+- Analyzed the relationship between fuel efficiency (MPG), horsepower, weight, cylinders, and acceleration.
+- Visualized correlations and identified factors affecting vehicle fuel economy.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
