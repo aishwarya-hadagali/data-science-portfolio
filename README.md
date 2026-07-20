@@ -44,13 +44,19 @@ This repository contains my Data Science projects using Python.
 - Visualized feature relationships and class-wise patterns.
 - Tools: Python, Pandas, Seaborn, Matplotlib.
 
-### 9. Indian Startup Funding EDA
+### 9 Titanic Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Titanic dataset.
+- Analyzed passenger survival based on age, gender, passenger class, fare, and embarkation port.
+- Explored missing values, feature distributions, and survival trends.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 10. Indian Startup Funding EDA
 - Performed Exploratory Data Analysis (EDA) on the Indian Startup Funding dataset.
 - Analyzed funding trends, cities, industries, investors, and investment types.
 - Identified startups receiving the highest funding and yearly funding patterns.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
 
-### 10. MPG Dataset EDA
+### 11. MPG Dataset EDA
 - Performed Exploratory Data Analysis (EDA) on the MPG dataset.
 - Analyzed the relationship between fuel efficiency (MPG), horsepower, weight, cylinders, and acceleration.
 - Visualized correlations and identified factors affecting vehicle fuel economy.
