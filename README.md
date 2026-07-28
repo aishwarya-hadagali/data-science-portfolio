@@ -61,3 +61,9 @@ This repository contains my Data Science projects using Python.
 - Analyzed the relationship between fuel efficiency (MPG), horsepower, weight, cylinders, and acceleration.
 - Visualized correlations and identified factors affecting vehicle fuel economy.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 12. Exercise Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Exercise dataset.
+- Analyzed exercise duration, heart rate, body temperature, calories burned, and other fitness-related features.
+- Visualized feature distributions, correlations, and trends.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
