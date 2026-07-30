@@ -67,3 +67,9 @@ This repository contains my Data Science projects using Python.
 - Analyzed exercise duration, heart rate, body temperature, calories burned, and other fitness-related features.
 - Visualized feature distributions, correlations, and trends.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 13. Wine Quality Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Wine Quality dataset.
+- Analyzed the relationship between physicochemical properties and wine quality.
+- Explored feature distributions, correlations, and quality score patterns.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
