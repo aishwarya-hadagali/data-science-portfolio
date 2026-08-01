@@ -73,3 +73,9 @@ This repository contains my Data Science projects using Python.
 - Analyzed the relationship between physicochemical properties and wine quality.
 - Explored feature distributions, correlations, and quality score patterns.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+### 14. Diabetes Dataset EDA
+- Performed Exploratory Data Analysis (EDA) on the Diabetes dataset.
+- Analyzed glucose, blood pressure, BMI, insulin, age, and diabetes outcome.
+- Explored feature distributions, correlations, and patterns associated with diabetes.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
