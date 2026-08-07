@@ -79,3 +79,11 @@ This repository contains my Data Science projects using Python.
 - Analyzed glucose, blood pressure, BMI, insulin, age, and diabetes outcome.
 - Explored feature distributions, correlations, and patterns associated with diabetes.
 - Tools: Python, Pandas, Matplotlib, Seaborn.
+
+## Heart Disease Dataset EDA
+
+- Performed Exploratory Data Analysis on the Heart Disease dataset.
+- Analyzed patient demographics, medical attributes, and heart disease outcomes.
+- Explored feature distributions, correlations, and relationships between variables.
+- Visualized insights using Matplotlib, Seaborn, and Plotly.
+- Tools: Python, Pandas, Matplotlib, Seaborn, Plotly.
