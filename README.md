@@ -87,3 +87,12 @@ This repository contains my Data Science projects using Python.
 - Explored feature distributions, correlations, and relationships between variables.
 - Visualized insights using Matplotlib, Seaborn, and Plotly.
 - Tools: Python, Pandas, Matplotlib, Seaborn, Plotly.
+
+## Bengaluru House Prices Dataset EDA
+
+- Performed Exploratory Data Analysis (EDA) on the Bengaluru House Prices dataset.
+- Cleaned the dataset by handling missing values and duplicate records.
+- Analyzed property features such as location, size, total square feet, number of bedrooms (BHK), bathrooms, and price.
+- Explored feature distributions, correlations, and relationships affecting house prices.
+- Visualized insights using various plots to identify price trends and patterns.
+- Tools: Python, Pandas, Matplotlib, Seaborn.
